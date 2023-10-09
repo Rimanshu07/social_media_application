@@ -1,2 +1,2 @@
-# social_media_application
-this is a social media application.
+# video_conferencing_tool
+this is a video conferencing application.
